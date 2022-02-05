@@ -1,8 +1,8 @@
-# gin-mongo-api
+# fiber-cloudinary-api
 
 Robust media upload with Golang and Cloudinary - Fiber Version
 
-This repository shows the source code for building a robust media upload using the Gin-gonic framework and Cloudinary.
+This repository shows the source code for building a robust media upload using the Fiber framework and Cloudinary.
 
 Article Link
 
